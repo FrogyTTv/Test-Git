@@ -1,2 +1,3 @@
 # Test-Git
-Dette r en test greir for git.
+Dette er en test greir for git.
+helt enig
